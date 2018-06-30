@@ -1,8 +1,8 @@
-//#include "adventure.h"
+#include "adventure.h"
 
 int main () {
-	//Adventure adventure;
-	//adventure.start();
+	Adventure adventure;
+	adventure.start();
 
 	return 42;
 }
